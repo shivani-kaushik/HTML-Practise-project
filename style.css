@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: lightsalmon;
+  text-align: center;
+  color: beige;
+  padding: 25px 0px 25px 0px;
+  margin: 0px 0px 0px 0px;
+}
+
+.responsive {
+  height: auto;
+  width: 100%;
+  align-self: center;
+}
+
+.main {
+  background-color: lightpink;
+  padding: 20px;
+  border: red solid 5px;
+}
+
+.foot {
+  background-color: lightsalmon;
+  color: beige;
+  text-align: center;
+  padding: 25px 0px 25px 0px;
+  margin: 25px 0px 0px 0px;
+}

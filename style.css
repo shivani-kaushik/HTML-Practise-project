@@ -1,12 +1,13 @@
-h1 {
-  font-size: 50px;
-  border-bottom: black solid 5px;
-  padding: 20px;
-  margin: 10px;
-  width: 260px;
+body {
+  margin: 0;
 }
 
-p {
-  padding: 20px;
-  margin: 10px;
+.main-box {
+  display: flex;
+  text-align: center;
+}
+
+.box {
+width: 200px;
+padding: 10px;
 }

@@ -1,14 +1,13 @@
-h1 {
-  font-size: 60px;
-  padding-bottom: 10px;
-  border-bottom: 2px solid black;
-  margin: 30px auto;
-  width: 500px;
-  text-align: center;
+body {
+  margin: 0;
 }
 
-p {
-  width: 500px;
-  margin: 30px auto;
+h1 {
   text-align: center;
+  background-color: #2a8442;
+  color: black;
+  margin right: auto;
+  margin left: auto;
+  padding: 20px;
+font-size: 60px;
 }

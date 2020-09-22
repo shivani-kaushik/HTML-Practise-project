@@ -1,5 +1,8 @@
-var friends = ["mark", "larry", "joe"]
+var larry = {
+  name: "larry",
+  age: 20,
+  friends: ["john", "lisa", "al"],
+  isPetOwner: false
+}
 
-console.log(friends[0])
-console.log(friends[1])
-console.log(friends[2])
+console.log(larry)

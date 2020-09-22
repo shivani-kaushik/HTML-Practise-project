@@ -1,8 +1,8 @@
-var larry = {
-  name: "larry",
-  age: 20,
-  friends: ["john", "lisa", "al"],
-  isPetOwner: false
+var tushar = {
+  name: "tushar aggarwal",
+  dob: 7,
+  hobbies: ["eating", "sleeping", "driving"],
+  isPetLover: true
 }
 
-console.log(larry)
+console.log(tushar)

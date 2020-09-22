@@ -1,8 +1,9 @@
-var tushar = {
-  name: "tushar aggarwal",
-  dob: 7,
-  hobbies: ["eating", "sleeping", "driving"],
-  isPetLover: true
+var shivam = {
+  name: "shivam kaushik",
+  height: "6ft",
+  weight: "70kgs",
+  hobbies: ["eating", "sleeping", "dancing"],
+  isHungryAlways: true
 }
 
-console.log(tushar)
+console.log(shivam)
